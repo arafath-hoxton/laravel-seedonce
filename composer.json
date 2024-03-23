@@ -1,5 +1,5 @@
 {
-    "name": "ranium/laravel-seedonce",
+    "name": "arafath-hoxton/laravel-seedonce",
     "description": "Laravel package to run seeders only once",
     "type": "library",
     "require": {
