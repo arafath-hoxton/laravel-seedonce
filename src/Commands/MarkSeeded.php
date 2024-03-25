@@ -46,6 +46,7 @@ class MarkSeeded extends BaseCommand
 
         $seeders = $this->getSeeders($this->option('class'));
 
+
         $this->info(count($seeders) . ' seeder(s) will be marked as seeded');
 
         $this->mark($seeders);
